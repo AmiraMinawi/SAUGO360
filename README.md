@@ -13,7 +13,7 @@ The information in the file should be in the following order: timestamp, src-use
 
 ## How to Run
 You can run the python script parse.py in PyCharm.  
-If you want to change the file, you can specify the path to your input file in the path variable in the code.
+If you want to change the input file, you can specify the path to your input file in the path variable in the code.
 
 ## Functions
 ### parser(path) Function
