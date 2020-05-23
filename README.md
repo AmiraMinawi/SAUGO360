@@ -8,8 +8,7 @@ CSV is a Python library for dealing with csv files.
 ```bash
 pip install python-csv
 ```
-The CSV file used (input.csv) is in the project directory.  
-The information in the file should be in the following order: timestamp, src-user, dst-user.  
+The CSV file used (input.csv) is in the project directory.   
 
 ## How to Run
 You can run the python script parse.py in PyCharm.  
