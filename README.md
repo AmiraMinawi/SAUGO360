@@ -1,6 +1,6 @@
 # SAUGO360(CommunicationParser)
 ## Prerequisites
-1. You should have python 3 installed.
+1. You should have python 3 installed
 
 2. import csv.  
 CSV is a Python library for dealing with csv files.
@@ -10,10 +10,10 @@ pip install python-csv
 ```
 The CSV file used (input.csv) is in the project directory.  
 The information in the file should be in the following order: timestamp, src-user, dst-user.  
-If you want to change the file, you can specify the path to your input file in the path variable in the code.
 
 ## How to Run
 You can run the python script parse.py in PyCharm.
+If you want to change the file, you can specify the path to your input file in the path variable in the code.
 
 ## Functions
 ### parser(path) Function
@@ -79,7 +79,6 @@ def write_log_summary(user_map):
 ```
 
 ## Input Example
-
 | timestamp | src-user | dst-user  |
 |-----------|----------|-----------|
 | 1232131   | u123     | u22       |
