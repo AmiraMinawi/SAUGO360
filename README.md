@@ -12,7 +12,7 @@ The CSV file used (input.csv) is in the project directory.
 The information in the file should be in the following order: timestamp, src-user, dst-user.  
 
 ## How to Run
-You can run the python script parse.py in PyCharm.
+You can run the python script parse.py in PyCharm.  
 If you want to change the file, you can specify the path to your input file in the path variable in the code.
 
 ## Functions
